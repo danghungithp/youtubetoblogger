@@ -1,0 +1,6 @@
+python
+streamlit
+youtube-transcript-api
+openai
+requests
+yt-dlp
